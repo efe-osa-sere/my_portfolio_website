@@ -4,11 +4,13 @@ export const Home = () => {
     
         <section id='home' className='min-h-screen flex items-center justify-center relative'>
             <div className='text-center z-10 px-4'>
-                <h1 className='text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-blue-500 to-purple-600 bg-clip-text text-transparent leading-right'>Hi, My name is Efosa Evbuomwan</h1>
+                <h1 className='text-5xl md:text-7xl font-bold mb-6  bg-gradient-to-r from-blue-500 to-cyan-400 bg-clip-text text-transparent leading-right'>👋 Hi, My name is Efosa Evbuomwan</h1>
             
             <p className="text-gray-400 text-lg mb-8 max-w-lg mx-auto">
-                I'm a full-stack developer wo loves crafting clean, scalable web applications. My goal is to build solutions that offer both exceptional
-                performance and a delightful user experience
+                I'm a Full Stack Developer & Data Analyst
+I build full stack web applications and turn complex data into actionable insights using Python. With experience across the stack — from React and Node.js to Django and PostgreSQL — I bring both the logic of engineering and the clarity of data analysis to every project.
+
+Let’s build something great — backed by code, driven by data.
             </p>
             <div className="flex justify-center space-x-4">
                 <a href="#projects" 
