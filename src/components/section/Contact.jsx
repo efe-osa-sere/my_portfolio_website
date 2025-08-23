@@ -24,7 +24,7 @@ export const Contact = () => {
              alert("Oops! Something went wrong. Please try again."))
     }
   return (
-  <section id='contact' className='min-h-screen flex items-center justify-center py-20'>
+  <section id='contact' className='min-h-screen flex items-center justify-center py-20 overflow-hidden'>
     <RevealOnScroll>
        <div className='px-4 w-150'>
         <h2 className='text-3xl font-bold mb-6 bg-gradient-to-r from-blue-500 to-cyan-400 bg-clip-text text-center text-transparent'>Get in Touch</h2>
