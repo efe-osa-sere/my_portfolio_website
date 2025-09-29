@@ -41,7 +41,7 @@ export const Projects = () => {
                         ))}
                     </div>
                     <div className='flex justify-between items-center'>
-                        <a href="http://localhost:5173/" className='text-blue-400 hover:text-blue-300 transition-colors my-4'>View Projects ➡️</a>
+                        <a href="https://github.com/efe-osa-sere/Movie_app" className='text-blue-400 hover:text-blue-300 transition-colors my-4'>View Projects ➡️</a>
                     </div>
                 </div>
                 {/* <div className='p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-blue-500/30
