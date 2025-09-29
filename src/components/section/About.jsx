@@ -2,7 +2,7 @@
 import { RevealOnScroll } from '../RevealOnScroll'
 
 export const About = () => {
-    const frontendSkills = ['React', 'Vanilla', 'TailwindCSS', 'HTML']
+    const frontendSkills = ['React', 'Vanilla', 'TailwindCSS', 'HTML', 'Next.js']
     const backendSkills = ['Node.js','SQL', 'Express', 'PostgreSQL']
     const pythonSkills = ['Pandas', 'Numpy', 'Django', 'Mathplotlib', 'Seaborn']
   return (
